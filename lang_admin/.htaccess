@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile C:\xampp\htdocs\ucc_lang\.htpasswd
+Require valid-user

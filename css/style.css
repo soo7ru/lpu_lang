@@ -1,0 +1,9 @@
+body {
+    background-image: url("../img/bg.png");
+    
+    background-position: center; 
+   
+}
+.page-header{
+	color: #ffdd00;
+}
